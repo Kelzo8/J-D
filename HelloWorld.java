@@ -1,6 +1,6 @@
 
 public class HelloWorld {
-system.out.println("James smells");
+system.out.println("David smells");
     public static void main(String[] args) {
 
         // Prints "Hello, World" in the terminal window.
